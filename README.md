@@ -2,7 +2,7 @@
 This repository contains a demo of SQLite read/write/insert commands. 
 
 # App Parts
-- Console
+- C# Console App
 - Microsoft SQLite
 
 # Functions
