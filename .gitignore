@@ -1,0 +1,12 @@
+# Visual Studio-related files to ignore
+.vs/
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+obj/
+bin/
+Debug/
+Release/
+database.db
